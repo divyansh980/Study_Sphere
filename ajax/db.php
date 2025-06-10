@@ -2,7 +2,7 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
-    $database = "shas1125_easypadhai";
+    $database = "study_sphere_db";
     
     $conn = new mysqli($servername, $username, $password, $database);
     
