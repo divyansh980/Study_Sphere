@@ -1,0 +1,61 @@
+[23-Nov-2024 06:46:28 UTC] SQL Query: SELECT question, marks FROM descriptive WHERE class = ? AND subject = ? AND book = ? AND lesson IN (?)
+[23-Nov-2024 06:46:28 UTC] Bound Parameters: Array
+(
+    [0] => 12
+    [1] => हिंदी
+    [2] => अंतरा
+    [3] => 01 जयशंकर प्रसाद
+)
+
+[23-Nov-2024 06:46:33 UTC] SQL Query: SELECT question, marks FROM descriptive WHERE class = ? AND subject = ? AND book = ? AND lesson IN (?)
+[23-Nov-2024 06:46:33 UTC] Bound Parameters: Array
+(
+    [0] => 12
+    [1] => हिंदी
+    [2] => अंतरा
+    [3] => 01 जयशंकर प्रसाद
+)
+
+[02-Jan-2025 09:58:22 UTC] Constructed image path: images/
+[02-Jan-2025 10:00:16 UTC] Constructed image path: images/
+[02-Jan-2025 10:08:24 UTC] Constructed image path: images/chimneyservice2.jpg
+[02-Jan-2025 10:19:16 UTC] Constructed image path: images/ScreenShot Tool -20241024115202.png
+[02-Jan-2025 15:26:54 UTC] Constructed image path: images/Screenshot_20250101-154615_Facebook.jpg
+[02-Jan-2025 15:26:59 UTC] Constructed image path: images/LoanAgainstCarbanner13.jpg
+[02-Jan-2025 15:27:07 UTC] Constructed image path: images/chimneyservice10.jpg
+[05-Jan-2025 18:14:57 UTC] Constructed image path: images/27.pdf
+[05-Jan-2025 18:20:25 UTC] Constructed image path: images/upl01.png
+[12-Jan-2025 19:14:05 UTC] Constructed image path: images/Im01.jpg
+[13-Jan-2025 06:54:19 UTC] Constructed image path: images/Img03.png
+[13-Jan-2025 07:04:35 UTC] Constructed image path: images/Img02.jpg
+[13-Jan-2025 07:09:30 UTC] Constructed image path: ../../ajax/images/09Pnjb001.png
+[13-Jan-2025 07:09:33 UTC] Constructed image path: ../../ajax/images/07 Math01.jpg
+[13-Jan-2025 07:09:40 UTC] Constructed image path: ../../ajax/images/Secretary.jpg
+[13-Jan-2025 07:10:35 UTC] Constructed image path: ../../ajax/images/09Pnjb001.png
+[13-Jan-2025 07:30:18 UTC] Constructed image path: ../../ajax/images/kitchenchimney.jpg
+[16-Jan-2025 06:36:57 UTC] Constructed image path: ../../ajax/images/laptop.jpg
+[16-Jan-2025 06:41:41 UTC] Constructed image path: ../../ajax/images/Red and White Floral Lohri Festival.png
+[16-Jan-2025 06:41:46 UTC] Constructed image path: ../../ajax/images/Red and White Floral Lohri Festival.png
+[16-Jan-2025 06:42:40 UTC] Constructed image path: ../../ajax/images/Red and White Floral Lohri Festival.png
+[16-Jan-2025 14:43:52 UTC] Constructed image path: ../../ajax/images/Red and White Floral Lohri Festival.png
+[10-Feb-2025 19:21:28 UTC] Constructed image path: ../../ajax/images/Bslwant.jpg
+[12-Feb-2025 03:22:23 UTC] Constructed image path: ../../ajax/images/Surjit_Patar.jpg
+[15-Feb-2025 12:57:37 UTC] Constructed image path: ../../ajax/images/Skt1001.jpeg
+[15-Feb-2025 12:57:41 UTC] Constructed image path: ../../ajax/images/WhatsApp Image 2025-02-15 at 18.23.10.jpeg
+[15-Feb-2025 13:42:04 UTC] Constructed image path: ../../ajax/images/RahiMasumRaza.jpg
+[17-Feb-2025 02:16:13 UTC] Constructed image path: ../../ajax/images/Poet_Rajesh_Joshi.jpg
+[17-Feb-2025 02:17:38 UTC] Constructed image path: ../../ajax/images/Poet_Rajesh_Joshi.jpg
+[17-Feb-2025 04:14:08 UTC] Constructed image path: ../../ajax/images/CV Raman.jpg
+[17-Feb-2025 04:30:00 UTC] Constructed image path: ../../ajax/images/Swami-Anand.jpg
+[17-Feb-2025 15:25:22 UTC] Constructed image path: ../../ajax/images/dilip taur.png
+[22-Feb-2025 10:58:51 UTC] Constructed image path: ../../ajax/images/7SSt01.png
+[22-Feb-2025 10:59:49 UTC] Constructed image path: ../../ajax/images/lxmi.jpeg
+[24-Feb-2025 10:59:12 UTC] Constructed image path: ../../ajax/images/Parth picc.jpg
+[27-Feb-2025 16:32:25 UTC] Constructed image path: ../../ajax/images/lhps102-05a.png
+[27-Feb-2025 16:32:33 UTC] Constructed image path: ../../ajax/images/lhps102-07a.png
+[27-Feb-2025 16:32:37 UTC] Constructed image path: ../../ajax/images/lhps102-05a.png
+[27-Feb-2025 16:32:44 UTC] Constructed image path: ../../ajax/images/lhps102-05a.png
+[27-Feb-2025 16:33:00 UTC] Constructed image path: ../../ajax/images/lhps102-05a.png
+[27-Feb-2025 16:33:16 UTC] Constructed image path: ../../ajax/images/lhps102-05a.png
+[02-Mar-2025 04:21:58 UTC] Constructed image path: ../../ajax/images/fhml110-17a.png
+[02-Mar-2025 04:24:50 UTC] Constructed image path: ../../ajax/images/fhml110-17a.png
