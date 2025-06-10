@@ -4,8 +4,8 @@ require_once 'vendor/autoload.php';
 session_start();
 
 $client = new Google_Client();
-$client->setClientId('811088445179-nl11nrnkom33dme9njclst83rm8b0ios.apps.googleusercontent.com');
-$client->setClientSecret('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');
+$client->setClientId('Client_ID_.apps.googleusercontent.com');  //replace with correct client id
+$client->setClientSecret('AAAAAAAAAA-1Px3FfGEEuS0TGj8SBfM8IDZYZrp');  // replace with correct secret id
 $client->setRedirectUri('http://localhost/easy-padhai/signup.php');
 
 if (isset($_GET['code'])) {
